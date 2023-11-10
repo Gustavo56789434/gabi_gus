@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hola_caracola
-=======
 hola
->>>>>>> 8c17b8cdfe75ccaca95711308622f58bde275204
+
